@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "739729461004",
+    "firebase_url": "https://database-understanding-2b72b-default-rtdb.firebaseio.com",
+    "project_id": "database-understanding-2b72b",
+    "storage_bucket": "database-understanding-2b72b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739729461004:android:b6606b1b92f8af216f0329",
+        "android_client_info": {
+          "package_name": "com.example.readorusethedata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAzr3jf0dX353gRByIbOjdx6p8VVI30z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739729461004:android:7004197fd925250c6f0329",
+        "android_client_info": {
+          "package_name": "com.example.signupwithdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAzr3jf0dX353gRByIbOjdx6p8VVI30z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
